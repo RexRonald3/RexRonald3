@@ -1,5 +1,2 @@
-- 👋 Hi, I’m RexRonald.
-- 😍 ECE student.
+- 👋 Hi, I’m RexRonald.I am an ECE student.
 - 👀 I’m currently learning software development.
-- 🌱 I've intrest in game developing.
-- 💞️ I'll upload my project files here.
