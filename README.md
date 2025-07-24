@@ -1,2 +1,2 @@
-- 👋 Hi, I’m RexRonald.I am an ECE student.
+- 👋 Hi, I’m RexRonald. I am an ECE student.
 - 👀 I’m currently learning software development.
